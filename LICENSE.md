@@ -1,4 +1,4 @@
-# 
+# Secure 30+ AI Projects at UQAC scripts. Featuring neural-networks and real-time-processing — optimized for maximum performance.
 
 
 
